@@ -31,7 +31,7 @@
       },
       {
         "name": "bedrock",
-        "suffix": "BedrockServer[基岩版服务端]",
+        "suffix": "BDS[基岩版服务端]",
         "appv2":false
       },
       {
