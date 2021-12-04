@@ -67,7 +67,8 @@
     },
     "appv2": {
       "bukkit":"aypaper1",
-      "proxy":"aypaper2"
+      "proxy":"aypaper2",
+      "bedrock":"aybdr2"
     }
   }
 }
