@@ -1,0 +1,85 @@
+{
+    "list": [
+        {
+            "name": "Null-Mirror",
+            "bcv":true,
+            "version-BungeeCord": {
+                "1119": "1.7.10",
+                "701": "1.6.4",
+                "666": "1.6.2",
+                "548": "1.5.2",
+                "386": "1.5.0",
+                "251": "1.4.7"
+            },
+            "main": [
+                {
+                    "name": "BungeeCord",
+                    "url": "http://play.aeolian.cn:50004/Proxy/BungeeCord-1119.jar",
+                    "version": "1119",
+                    "filename": "BungeeCord-1119.jar"
+                },
+                {
+                    "name": "BungeeCord",
+                    "url": "http://play.aeolian.cn:50004/Proxy/BungeeCord-1575.jar",
+                    "version": "1575",
+                    "filename": "BungeeCord-1575.jar"
+                },
+                {
+                    "name": "BungeeCord",
+                    "url": "http://play.aeolian.cn:50004/Proxy/BungeeCord-251.jar",
+                    "version": "251",
+                    "filename": "BungeeCord-251.jar"
+                },
+                {
+                    "name": "BungeeCord",
+                    "url": "http://play.aeolian.cn:50004/Proxy/BungeeCord-386.jar",
+                    "version": "386",
+                    "filename": "BungeeCord-386.jar"
+                },
+                {
+                    "name": "BungeeCord",
+                    "url": "http://play.aeolian.cn:50004/Proxy/BungeeCord-548.jar",
+                    "version": "548",
+                    "filename": "BungeeCord-548.jar"
+                },
+                {
+                    "name": "BungeeCord",
+                    "url": "http://play.aeolian.cn:50004/Proxy/BungeeCord-666.jar",
+                    "version": "666",
+                    "filename": "BungeeCord-666.jar"
+                },
+                {
+                    "name": "BungeeCord",
+                    "url": "http://play.aeolian.cn:50004/Proxy/BungeeCord-701.jar",
+                    "version": "701",
+                    "filename": "BungeeCord-701.jar"
+                },
+                {
+                    "name": "Velocity",
+                    "url": "http://play.aeolian.cn:50004/Proxy/velocity-1.1.5.jar",
+                    "version": "1.1.5",
+                    "filename": "velocity-1.1.5.jar"
+                }
+            ]
+        },
+        {
+            "name":"SaltyFish",
+            "bcv":false,
+            "main":[
+                {
+                    "name": "BungeeCord",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Bungeecord/BungeeCord.jar",
+                    "version": "1.7.10+",
+                    "filename": "BungeeCord.jar"
+                },
+                {
+                    "name": "Velocity",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Velocity/velocity-3.0.0.jar",
+                    "version": "3.0.0",
+                    "filename": "velocity-3.0.0.jar"
+                }
+                
+            ]
+        }
+    ]
+}

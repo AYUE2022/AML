@@ -1,0 +1,73 @@
+{
+  "list": [
+    {
+      "name": "Null-Mirror",
+      "allow": true,
+      "href": false
+    },
+    {
+      "name": "SaltyFish",
+      "allow": true,
+      "href": false
+    },
+    {
+      "name": "Serverjars",
+      "allow": true,
+      "href": true,
+      "appfetch": "Ayl1"
+    }
+  ],
+  "type": {
+    "list": [
+      {
+        "name": "bukkit",
+        "suffix": "Bukkit[插件端]",
+        "appv2": true
+      },
+      {
+        "name": "forge",
+        "suffix": "Forge[模组端]",
+        "appv2":false
+      },
+      {
+        "name": "bedrock",
+        "suffix": "BedrockServer[基岩版服务端]",
+        "appv2":false
+      },
+      {
+        "name": "proxy",
+        "suffix": "BungeeCord[群组服]",
+        "appv2": true
+      }
+    ],
+    "main": {
+      "bukkit": [
+        "SpongeVanilla",
+        "Spigot",
+        "Sugarcane",
+        "Tuinity",
+        "Yatopia",
+        "Purpur",
+        "Bukkit"
+      ],
+      "forge": [
+        "Arclight",
+        "Mohist",
+        "CatServer",
+        "LoliServer"
+      ],
+      "bedrock": [
+        "Nukkitx",
+        "Pocketmine"
+      ],
+      "proxy": [
+        "bungeecord",
+        "velocity"
+      ]
+    },
+    "appv2": {
+      "bukkit":"aypaper1",
+      "proxy":"aypaper2"
+    }
+  }
+}

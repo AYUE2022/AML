@@ -1,0 +1,110 @@
+{
+    "list": [
+        {
+            "name": "Null-Mirror",
+            "main": [
+                {
+                    "name": "Arclight",
+                    "url": "http://play.aeolian.cn:50004/Forge&Bukkit/Arclight/arclight-forge-1.14-1.0.6.jar",
+                    "version": "1.14",
+                    "filename": "Arclight-forge-1.14-1.0.6.jar"
+                },
+                {
+                    "name": "Arclight",
+                    "url": "http://play.aeolian.cn:50004/Forge&Bukkit/Arclight/arclight-forge-1.15-1.0.19.jar",
+                    "version": "1.15",
+                    "filename": "Arclight-forge-1.15-1.0.19.jar"
+                },
+                {
+                    "name": "Arclight",
+                    "url": "http://play.aeolian.cn:50004/Forge&Bukkit/Arclight/arclight-forge-1.15-1.0.6.jar",
+                    "version": "1.15",
+                    "filename": "Arclight-forge-1.15-1.0.6.jar"
+                },
+                {
+                    "name": "Arclight",
+                    "url": "http://play.aeolian.cn:50004/Forge&Bukkit/Arclight/arclight-forge-1.16-1.0.19.jar",
+                    "version": "1.16",
+                    "filename": "Arclight-forge-1.16-1.0.19.jar"
+                },
+                {
+                    "name": "CatServer",
+                    "url": "http://play.aeolian.cn:50004/Forge&Bukkit/CatServer/CatServer-1.12.2-21.04.20.jar",
+                    "version": "1.12.2",
+                    "filename": "CatServer-1.12.2-21.04.20.jar"
+                },
+                {
+                    "name": "CatServer",
+                    "url": "http://play.aeolian.cn:50004/Forge&Bukkit/CatServer/CatServer-1.12.2-21.05.18.jar",
+                    "version": "1.12.2",
+                    "filename": "CatServer-1.12.2-21.05.18.jar"
+                },
+                {
+                    "name": "CatServer",
+                    "url": "http://play.aeolian.cn:50004/Forge&Bukkit/CatServer/CatServer-1.12.2-21.06.21.jar",
+                    "version": "1.12.2",
+                    "filename": "CatServer-1.12.2-21.06.21.jar"
+                },
+                {
+                    "name": "LoliServer",
+                    "url": "http://play.aeolian.cn:50004/Forge&Bukkit/LoliServer/LoliServer-1.16.5-12-server.jar",
+                    "version": "1.16.5",
+                    "filename": "LoliServer-1.16.5-12-server.jar"
+                }
+            ]
+        },
+        {
+            "name":"SaltyFish",
+            "main": [
+                {
+                    "name": "Arclight",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Arclight/arclight-forge-1.15-1.0.6.jar",
+                    "version": "1.15.2",
+                    "filename": "Arclight-forge-1.15-1.0.6.jar"
+                },
+                {
+                    "name": "Arclight",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Arclight/arclight-forge-1.15-1.0.19.jar",
+                    "version": "1.15.2",
+                    "filename": "Arclight-forge-1.15-1.0.19.jar"
+                },
+                {
+                    "name": "Arclight",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Arclight/arclight-forge-1.16.5-1.0.20.jar",
+                    "version": "1.16.5",
+                    "filename": "Arclight-forge-1.16.5-1.0.20.jar"
+                },
+                {
+                    "name": "Arclight",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Arclight/arclight-forge-1.17.1-1.0.0-SNAPSHOT.jar",
+                    "version": "1.17.1",
+                    "filename": "Arclight-forge-1.17.1-1.0.0-SNAPSHOT.jar"
+                },
+                {
+                    "name": "CatServer",
+                    "url": "https://mcmirrors.srv.saltyfish.work/CatServer/CatServer-26208f0-universal.jar",
+                    "version": "1.12.2",
+                    "filename": "CatServer-26208f0-universal.jar"
+                },
+                {
+                    "name": "Mohist",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Mohist/mohist-1.7.10-40-server.jar",
+                    "version": "1.7.10",
+                    "filename": "Mohist-1.7.10-40-server.jar"
+                },
+                {
+                    "name": "Mohist",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Mohist/mohist-1.12.2-247-server.jar",
+                    "version": "1.12.2",
+                    "filename": "Mohist-1.12.2-247-server.jar"
+                },
+                {
+                    "name": "Mohist",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Mohist/mohist-1.16.5-749-server.jar",
+                    "version": "1.16.5",
+                    "filename": "Mohist-1.16.5-749-server.jar"
+                }
+            ]
+        }
+    ]
+}

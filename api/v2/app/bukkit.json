@@ -1,0 +1,428 @@
+{
+    "list": [
+        {
+            "name": "Null-Mirror",
+            "main": [
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.10.2.jar",
+                    "version": "1.10.2",
+                    "filename": "Spigot-1.10.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.10.jar",
+                    "version": "1.10",
+                    "filename": "Spigot-1.10.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.11.1.jar",
+                    "version": "1.11.1",
+                    "filename": "Spigot-1.11.1.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.11.2.jar",
+                    "version": "1.11.2",
+                    "filename": "Spigot-1.11.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.11.jar",
+                    "version": "1.11",
+                    "filename": "Spigot-1.11.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.12.1.jar",
+                    "version": "1.12.1",
+                    "filename": "Spigot-1.12.1.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.12.2.jar",
+                    "version": "1.12.2",
+                    "filename": "Spigot-1.12.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.12.jar",
+                    "version": "1.12",
+                    "filename": "Spigot-1.12.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.13.1.jar",
+                    "version": "1.13.1",
+                    "filename": "Spigot-1.13.1.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.13.2.jar",
+                    "version": "1.13.2",
+                    "filename": "Spigot-1.13.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.13.jar",
+                    "version": "1.13",
+                    "filename": "Spigot-1.13.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.14.1.jar",
+                    "version": "1.14.1",
+                    "filename": "Spigot-1.14.1.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.14.2.jar",
+                    "version": "1.14.2",
+                    "filename": "Spigot-1.14.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.14.3.jar",
+                    "version": "1.14.3",
+                    "filename": "Spigot-1.14.3.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.14.4.jar",
+                    "version": "1.14.4",
+                    "filename": "Spigot-1.14.4.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.14.jar",
+                    "version": "1.14",
+                    "filename": "Spigot-1.14.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.15.1.jar",
+                    "version": "1.15.1",
+                    "filename": "Spigot-1.15.1.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.15.2.jar",
+                    "version": "1.15.2",
+                    "filename": "Spigot-1.15.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.15.jar",
+                    "version": "1.15",
+                    "filename": "Spigot-1.15.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.16.1.jar",
+                    "version": "1.16.1",
+                    "filename": "Spigot-1.16.1.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.16.2.jar",
+                    "version": "1.16.2",
+                    "filename": "Spigot-1.16.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.16.3.jar",
+                    "version": "1.16.3",
+                    "filename": "Spigot-1.16.3.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.16.4.jar",
+                    "version": "1.16.4",
+                    "filename": "Spigot-1.16.4.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.16.5.jar",
+                    "version": "1.16.5",
+                    "filename": "Spigot-1.16.5.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.17.jar",
+                    "version": "1.17",
+                    "filename": "Spigot-1.17.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.4.6.jar",
+                    "version": "1.4.6",
+                    "filename": "Spigot-1.4.6.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.4.7.jar",
+                    "version": "1.4.7",
+                    "filename": "Spigot-1.4.7.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.5.1.jar",
+                    "version": "1.5.1",
+                    "filename": "Spigot-1.5.1.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.5.2.jar",
+                    "version": "1.5.2",
+                    "filename": "Spigot-1.5.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.6.2.jar",
+                    "version": "1.6.2",
+                    "filename": "Spigot-1.6.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.6.4.jar",
+                    "version": "1.6.4",
+                    "filename": "Spigot-1.6.4.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.7.10.jar",
+                    "version": "1.7.10",
+                    "filename": "Spigot-1.7.10.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.7.2.jar",
+                    "version": "1.7.2",
+                    "filename": "Spigot-1.7.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.7.5.jar",
+                    "version": "1.7.5",
+                    "filename": "Spigot-1.7.5.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.7.8.jar",
+                    "version": "1.7.8",
+                    "filename": "Spigot-1.7.8.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.7.9.jar",
+                    "version": "1.7.9",
+                    "filename": "Spigot-1.7.9.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.8.3.jar",
+                    "version": "1.8.3",
+                    "filename": "Spigot-1.8.3.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.8.4.jar",
+                    "version": "1.8.4",
+                    "filename": "Spigot-1.8.4.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.8.5.jar",
+                    "version": "1.8.5",
+                    "filename": "Spigot-1.8.5.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.8.6.jar",
+                    "version": "1.8.6",
+                    "filename": "Spigot-1.8.6.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.8.7.jar",
+                    "version": "1.8.7",
+                    "filename": "Spigot-1.8.7.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.8.8.jar",
+                    "version": "1.8.8",
+                    "filename": "Spigot-1.8.8.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.8.jar",
+                    "version": "1.8",
+                    "filename": "Spigot-1.8.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.9.2.jar",
+                    "version": "1.9.2",
+                    "filename": "Spigot-1.9.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.9.4.jar",
+                    "version": "1.9.4",
+                    "filename": "Spigot-1.9.4.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "http://play.aeolian.cn:50004/Bukkit/Spigot/spigot-1.9.jar",
+                    "version": "1.9",
+                    "filename": "Spigot-1.9.jar"
+                }
+            ]
+        },
+        {
+            "name": "SaltyFish",
+            "main": [
+                {
+                    "name": "Spigot",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.8.8.jar",
+                    "version": "1.8.8",
+                    "filename": "Spigot-1.8.8.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.9.4.jar",
+                    "version": "1.9.4",
+                    "filename": "Spigot-1.9.4.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.10.2.jar",
+                    "version": "1.10.2",
+                    "filename": "Spigot-1.10.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.11.2.jar",
+                    "version": "1.11.2",
+                    "filename": "Spigot-1.11.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.12.2.jar",
+                    "version": "1.12.2",
+                    "filename": "Spigot-1.12.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.13.2.jar",
+                    "version": "1.13.2",
+                    "filename": "Spigot-1.13.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.14.4.jar",
+                    "version": "1.14.4",
+                    "filename": "Spigot-1.14.4.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.15.2.jar",
+                    "version": "1.15.2",
+                    "filename": "Spigot-1.15.2.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.16.5.jar",
+                    "version": "1.16.5",
+                    "filename": "Spigot-1.16.5.jar"
+                },
+                {
+                    "name": "Spigot",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Spigot/spigot-1.17.1.jar",
+                    "version": "1.17.1",
+                    "filename": "Spigot-1.17.1.jar"
+                },
+                {
+                    "name": "Spongevanilla",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Sponge/spongevanilla-1.8.9-4.2.0-BETA-352.jar",
+                    "version": "1.8.9",
+                    "filename": "Spongevanilla-1.8.9-4.2.0-BETA-352.jar"
+                },
+                {
+                    "name": "Spongevanilla",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Sponge/spongevanilla-1.10.2-5.2.0-BETA-403.jar",
+                    "version": "1.10.2",
+                    "filename": "Spongevanilla-1.10.2-5.2.0-BETA-403.jar"
+                },
+                {
+                    "name": "Spongevanilla",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Sponge/spongevanilla-1.11.2-6.1.0-BETA-27.jar",
+                    "version": "1.11.2",
+                    "filename": "Spongevanilla-1.11.2-6.1.0-BETA-27.jar"
+                },
+                {
+                    "name": "Spongevanilla",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Sponge/spongevanilla-1.12.2-7.3.0.jar",
+                    "version": "1.12.2",
+                    "filename": "Spongevanilla-1.12.2-7.3.0.jar"
+                },
+                {
+                    "name": "Sugarcane",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Sugarcane/sugarcane-paperclip-b50.jar",
+                    "version": "1.17",
+                    "filename": "Sugarcane-paperclip-b50.jar"
+                },
+                {
+                    "name": "Tuinity",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Tuinity/tuinity-1.16.5.jar",
+                    "version": "1.16.5",
+                    "filename": "Tuinity-1.16.5.jar"
+                },
+                {
+                    "name": "Tuinity",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Tuinity/tuinity-1.17.1.jar",
+                    "version": "1.17.1",
+                    "filename": "Tuinity-1.17.1.jar"
+                },
+                {
+                    "name": "Yatopia",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Yatopia/yatopia-1.16.5-paperclip-b122.jar",
+                    "version": "1.16.5",
+                    "filename": "Yatopia-1.16.5-paperclip-b122.jar"
+                },
+                {
+                    "name": "Yatopia",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Yatopia/yatopia-1.17-paperclip-b17.jar",
+                    "version": "1.17",
+                    "filename": "Yatopia-1.17-paperclip-b17.jar"
+                },
+                {
+                    "name": "Purpur",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Purpur/purpur-1.14.4-337.jar",
+                    "version": "1.14.4",
+                    "filename": "Purpur-1.14.4-337.jar"
+                },
+                {
+                    "name": "Purpur",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Purpur/purpur-1.15.2-606.jar",
+                    "version": "1.15.2",
+                    "filename": "Purpur-1.15.2-606.jar"
+                },
+                {
+                    "name": "Purpur",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Purpur/purpur-1.16.5-1171.jar",
+                    "version": "1.16.5",
+                    "filename": "Purpur-1.16.5-1171.jar"
+                },
+                {
+                    "name": "Purpur",
+                    "url": "https://mcmirrors.srv.saltyfish.work/Purpur/purpur-1.17.1-1316.jar",
+                    "version": "1.17.1",
+                    "filename": "Purpur-1.17.1-1316.jar"
+                }
+            ]
+        }
+    ]
+}
